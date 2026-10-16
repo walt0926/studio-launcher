@@ -1,1 +1,8 @@
-
+{
+  "schemaVersion": 1,
+  "id": "servidor-amigos",
+  "version": "0.1.0",
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "files": []
+}
