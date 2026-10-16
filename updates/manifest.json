@@ -1,8 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "servidor-amigos",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
-  "files": []
+  "files": [
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
+      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
+      "size": 1574609,
+      "category": "mods",
+      "description": "Sodium — optimización gráfica (Modrinth)"
+    }
+  ]
 }
