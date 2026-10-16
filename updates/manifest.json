@@ -6,12 +6,102 @@
   "loader": "fabric",
   "files": [
     {
-      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar",
-      "sha256": "3d43c14985a4deb19c654aad3393b454cf57e1ebcbba86c4ae6a98dfc60eca2d",
-      "size": 1574609,
-      "category": "mods",
-      "description": "Sodium — optimización gráfica (Modrinth)"
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
+      "size": 2087232,
+      "category": "mods"
+    },
+    {
+      "path": "mods/revivalcinematic-1.0.0-alpha7-8.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add-revivalcinematic-1.0.0-alpha7-8.jar",
+      "sha256": "aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add",
+      "size": 38710,
+      "category": "mods"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
+      "size": 664463,
+      "category": "mods"
+    },
+    {
+      "path": "mods/mountainblocks-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
+      "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
+      "size": 37122,
+      "category": "mods"
+    },
+    {
+      "path": "config/dedsafio4_scale.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/cdc3929487004b7869ec3dd2a1b8f8c7cf82268e7e9087be12fede7889fe1f76-dedsafio4_scale.properties",
+      "sha256": "cdc3929487004b7869ec3dd2a1b8f8c7cf82268e7e9087be12fede7889fe1f76",
+      "size": 108,
+      "category": "config"
+    },
+    {
+      "path": "config/dimlib.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/d79abb1e845b71031091deb6e41a3389974bcb058db35f62d2ef70d148e5f25b-dimlib.json",
+      "sha256": "d79abb1e845b71031091deb6e41a3389974bcb058db35f62d2ef70d148e5f25b",
+      "size": 42,
+      "category": "config"
+    },
+    {
+      "path": "config/immersive_portals.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/d67360f11c2e7154b99e09669d42b28d21fdba9435d1134b5790a70ea674d018-immersive_portals.json",
+      "sha256": "d67360f11c2e7154b99e09669d42b28d21fdba9435d1134b5790a70ea674d018",
+      "size": 1845,
+      "category": "config"
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/d55fd585961894567e4cab3f2c6a59086bfae2094bb885889212330996b34e4a-iris.properties",
+      "sha256": "d55fd585961894567e4cab3f2c6a59086bfae2094bb885889212330996b34e4a",
+      "size": 259,
+      "category": "config"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387-midnightlib.json",
+      "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
+      "size": 34,
+      "category": "config"
+    },
+    {
+      "path": "config/reviveflame.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/d09093ccbefe08f6ce0e4990bce364bf88780344263d4963aabd8394bac54b1b-reviveflame.json",
+      "sha256": "d09093ccbefe08f6ce0e4990bce364bf88780344263d4963aabd8394bac54b1b",
+      "size": 265,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/7f85ae2f364617ba6b3c1134ff64f3c8ff2cd5033e455e26294b638cd3b54f90-sodium-fingerprint.json",
+      "sha256": "7f85ae2f364617ba6b3c1134ff64f3c8ff2cd5033e455e26294b638cd3b54f90",
+      "size": 427,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01-sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/659909ab0485f334bb15ad2a392218a53ae09f5ad890965f2f5686d91119ce10-sodium-options.json",
+      "sha256": "659909ab0485f334bb15ad2a392218a53ae09f5ad890965f2f5686d91119ce10",
+      "size": 661,
+      "category": "config"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-0e5f81cdb7cf0d081491/55d3470b5b967ed6fa4cce1f7d05e49af8a5fe640f94c95d58d1da749f7fbf3b-indigo-renderer.properties",
+      "sha256": "55d3470b5b967ed6fa4cce1f7d05e49af8a5fe640f94c95d58d1da749f7fbf3b",
+      "size": 290,
+      "category": "config"
     }
   ]
 }
