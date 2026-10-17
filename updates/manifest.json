@@ -7,49 +7,49 @@
   "files": [
     {
       "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
       "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
       "size": 664463,
       "category": "mods"
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
       "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "size": 2452735,
       "category": "mods"
     },
     {
       "path": "mods/mountainblocks-1.0.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
       "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
       "size": 37122,
       "category": "mods"
     },
     {
       "path": "mods/revivalcinematic-1.0.0-alpha7-8.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add-revivalcinematic-1.0.0-alpha7-8.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add-revivalcinematic-1.0.0-alpha7-8.jar",
       "sha256": "aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add",
       "size": 38710,
       "category": "mods"
     },
     {
       "path": "mods/iris-fabric-1.8.0-mc1.21.1.jar.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
       "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
       "size": 2675365,
       "category": "mods"
     },
     {
       "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
       "size": 2087232,
       "category": "mods"
     },
     {
       "path": "mods/sodium-fabric-0.6.0+mc1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/untagged-89a01eaffad461b42058/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e",
       "size": 1281394,
       "category": "mods"
