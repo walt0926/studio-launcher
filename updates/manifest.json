@@ -1,57 +1,204 @@
 {
   "schemaVersion": 1,
-  "id": "servidor-amigos",
+  "id": "MCDevelop",
   "version": "0.3.0",
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
   "files": [
     {
-      "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
-      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
-      "size": 664463,
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f-cloth-config-15.0.140-fabric.jar",
+      "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "size": 1157166,
+      "category": "mods"
+    },
+    {
+      "path": "mods/dedsafio-phora-0.2.1-BRAZOS-CORREGIDOS.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/8d3bc70ec772e9bde4c0f8e2f082f0e694562f66efe0bd90cce33bb233d281a9-dedsafio-phora-0.2.1-BRAZOS-CORREGIDOS.jar",
+      "sha256": "8d3bc70ec772e9bde4c0f8e2f082f0e694562f66efe0bd90cce33bb233d281a9",
+      "size": 84593,
+      "category": "mods"
+    },
+    {
+      "path": "mods/DEDsafio-Spectator-1.2.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/1512ebe69702f4c64ca2464fb477bcc1b79dadfa6476d2460d26330de10a5f7a-DEDsafio-Spectator-1.2.2.jar",
+      "sha256": "1512ebe69702f4c64ca2464fb477bcc1b79dadfa6476d2460d26330de10a5f7a",
+      "size": 9890,
+      "category": "mods"
+    },
+    {
+      "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354-drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
+      "sha256": "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
+      "size": 276120,
+      "category": "mods"
+    },
+    {
+      "path": "mods/dungeons-and-taverns-v4.4.4 [Fabric].jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da-dungeons-and-taverns-v4.4.4.Fabric.jar",
+      "sha256": "6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da",
+      "size": 24859360,
+      "category": "mods"
+    },
+    {
+      "path": "mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865-DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+      "sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
+      "size": 11864952,
       "category": "mods"
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
       "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "size": 2452735,
       "category": "mods"
     },
     {
-      "path": "mods/mountainblocks-1.0.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
-      "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
-      "size": 37122,
+      "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9-fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
+      "size": 8142878,
       "category": "mods"
     },
     {
-      "path": "mods/revivalcinematic-1.0.0-alpha7-8.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add-revivalcinematic-1.0.0-alpha7-8.jar",
-      "sha256": "aa0868b1fa56eda20e9ed827f86bb46c667499d5ae58d8b8f1ebdce3fa254add",
-      "size": 38710,
+      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
+      "size": 26277804,
+      "category": "mods"
+    },
+    {
+      "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
+      "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
+      "size": 664463,
+      "category": "mods"
+    },
+    {
+      "path": "mods/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979-immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+      "sha256": "07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979",
+      "size": 3121749,
       "category": "mods"
     },
     {
       "path": "mods/iris-fabric-1.8.0-mc1.21.1.jar.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
       "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
       "size": 2675365,
       "category": "mods"
     },
     {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841-konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "size": 786695,
+      "category": "mods"
+    },
+    {
       "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
       "size": 2087232,
       "category": "mods"
     },
     {
+      "path": "mods/compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b-compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
+      "sha256": "8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b",
+      "size": 65458536,
+      "category": "mods"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83-melody_fabric_1.0.10_MC_1.21.jar",
+      "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "size": 188035,
+      "category": "mods"
+    },
+    {
+      "path": "mods/mountainblocks-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
+      "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
+      "size": 37122,
+      "category": "mods"
+    },
+    {
+      "path": "mods/modmenu-11.0.5.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5-modmenu-11.0.5.jar",
+      "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5",
+      "size": 975846,
+      "category": "mods"
+    },
+    {
+      "path": "mods/phora-coins-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5-phora-coins-1.0.0.jar",
+      "sha256": "4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5",
+      "size": 1485153,
+      "category": "mods"
+    },
+    {
+      "path": "mods/placeholder-api-2.4.2+1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443-placeholder-api-2.4.2%2B1.21.jar",
+      "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "size": 232325,
+      "category": "mods"
+    },
+    {
+      "path": "mods/revivalcinematic-1.2.0-dev11.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/1073c5c1fe4ee10a2964f76fcf441d9f5bcbbcaf644207fae3c41efd4eb27508-revivalcinematic-1.2.0-dev11.jar",
+      "sha256": "1073c5c1fe4ee10a2964f76fcf441d9f5bcbbcaf644207fae3c41efd4eb27508",
+      "size": 57038,
+      "category": "mods"
+    },
+    {
       "path": "mods/sodium-fabric-0.6.0+mc1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.3.0/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e",
       "size": 1281394,
+      "category": "mods"
+    },
+    {
+      "path": "mods/spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec-spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
+      "sha256": "08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec",
+      "size": 840858,
+      "category": "mods"
+    },
+    {
+      "path": "mods/vanillahud-3.5.10+1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3-vanillahud-3.5.10%2B1.21.1.jar",
+      "sha256": "d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3",
+      "size": 247698,
+      "category": "mods"
+    },
+    {
+      "path": "mods/OneConfig-1.21.1-fabric-1.5.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7-OneConfig-1.21.1-fabric-1.5.2.jar",
+      "sha256": "d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7",
+      "size": 12283345,
+      "category": "mods"
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a-watermedia-3.0.0.23.jar",
+      "sha256": "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a",
+      "size": 3625445,
+      "category": "mods"
+    },
+    {
+      "path": "mods/DEDsafio4-1.1.0-rc2+mc1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553-DEDsafio4-1.1.0-rc2%2Bmc1.21.1.jar",
+      "sha256": "523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553",
+      "size": 279503717,
+      "category": "mods"
+    },
+    {
+      "path": "mods/watermedia_binaries-3.0.0.6.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-MCDevelop-v0.3.0/3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809-watermedia_binaries-3.0.0.6.jar",
+      "sha256": "3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809",
+      "size": 143725808,
       "category": "mods"
     }
   ]
