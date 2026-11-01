@@ -202,10 +202,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/dedsafio-phora-0.3.3.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.4.0/9215c15777adbb18e47a58795a22fbfd99823679a7feeb136c1475685f6d3205-dedsafio-phora-0.3.3.jar",
-      "sha256": "9215c15777adbb18e47a58795a22fbfd99823679a7feeb136c1475685f6d3205",
-      "size": 108262,
+      "path": "mods/dedsafio-phora-0.3.5.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.4.0/d322f312ad3f56c9a6bd6636f1db18c50ffe3e661333d264186a686c52b1b9e1-dedsafio-phora-0.3.5.jar",
+      "sha256": "d322f312ad3f56c9a6bd6636f1db18c50ffe3e661333d264186a686c52b1b9e1",
+      "size": 115691,
       "category": "mods"
     }
   ],
@@ -213,6 +213,10 @@
     {
       "path": "mods/dedsafio-phora-0.3.2.jar",
       "sha256": "756c4dcf607cef5c0ea57eb033658baf4b2add744b10dc6c6acae389ce771086"
+    },
+    {
+      "path": "mods/dedsafio-phora-0.3.3.jar",
+      "sha256": "9215c15777adbb18e47a58795a22fbfd99823679a7feeb136c1475685f6d3205"
     }
   ]
 }
