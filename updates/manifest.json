@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mcdevelop",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
   "files": [
@@ -202,10 +202,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/dedsafio-phora-0.3.5.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.4.0/d322f312ad3f56c9a6bd6636f1db18c50ffe3e661333d264186a686c52b1b9e1-dedsafio-phora-0.3.5.jar",
-      "sha256": "d322f312ad3f56c9a6bd6636f1db18c50ffe3e661333d264186a686c52b1b9e1",
-      "size": 115691,
+      "path": "mods/dedsafio-phora-0.3.6.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.5.0/f2461eae3cae09896397b300fbfa3ae4e0a506a7d16b7a4fef656201c6bd2427-dedsafio-phora-0.3.6.jar",
+      "sha256": "f2461eae3cae09896397b300fbfa3ae4e0a506a7d16b7a4fef656201c6bd2427",
+      "size": 116548,
       "category": "mods"
     }
   ],
@@ -217,6 +217,10 @@
     {
       "path": "mods/dedsafio-phora-0.3.3.jar",
       "sha256": "9215c15777adbb18e47a58795a22fbfd99823679a7feeb136c1475685f6d3205"
+    },
+    {
+      "path": "mods/dedsafio-phora-0.3.5.jar",
+      "sha256": "d322f312ad3f56c9a6bd6636f1db18c50ffe3e661333d264186a686c52b1b9e1"
     }
   ]
 }
