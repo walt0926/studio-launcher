@@ -1,0 +1,13 @@
+{
+  "name": "MCDevelop",
+  "host": "expedition.mcsh.io",
+  "port": 25565,
+  "maintenance": false,
+  "message": "",
+  "news": [
+    {
+      "title": "Test",
+      "text": "Holaaaaa este es el servidor parecido a dedsafioo"
+    }
+  ]
+}
