@@ -62,10 +62,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
-      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
-      "size": 26277804,
+      "path": "mods/compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b-compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
+      "sha256": "8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b",
+      "size": 65458536,
       "category": "mods"
     },
     {
@@ -83,10 +83,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/iris-fabric-1.8.0-mc1.21.1.jar.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
-      "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
-      "size": 2675365,
+      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
+      "size": 26277804,
       "category": "mods"
     },
     {
@@ -97,10 +97,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
-      "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
-      "size": 2087232,
+      "path": "mods/iris-fabric-1.8.0-mc1.21.1.jar.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
+      "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
+      "size": 2675365,
       "category": "mods"
     },
     {
@@ -111,10 +111,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/modmenu-11.0.5.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5-modmenu-11.0.5.jar",
-      "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5",
-      "size": 975846,
+      "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
+      "size": 2087232,
       "category": "mods"
     },
     {
@@ -125,10 +125,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/OneConfig-1.21.1-fabric-1.5.2.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7-OneConfig-1.21.1-fabric-1.5.2.jar",
-      "sha256": "d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7",
-      "size": 12283345,
+      "path": "mods/modmenu-11.0.5.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5-modmenu-11.0.5.jar",
+      "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5",
+      "size": 975846,
       "category": "mods"
     },
     {
@@ -174,10 +174,10 @@
       "category": "mods"
     },
     {
-      "path": "mods/compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b-compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
-      "sha256": "8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b",
-      "size": 65458536,
+      "path": "mods/OneConfig-1.21.1-fabric-1.5.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7-OneConfig-1.21.1-fabric-1.5.2.jar",
+      "sha256": "d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7",
+      "size": 12283345,
       "category": "mods"
     },
     {
