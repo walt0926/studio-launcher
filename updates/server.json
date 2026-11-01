@@ -2,14 +2,14 @@
   "name": "MCDevelop",
   "host": "expedition.mcsh.io",
   "port": 25565,
-  "maintenance": true,
+  "maintenance": false,
   "message": "",
   "news": [
     {
-      "title": "Test",
-      "text": "Este es un test asdjoppppppjpooooopoo\ndsfaf\nasfasfasf\nasfasf\nasfafa\nsf\na\nsfa\nsf\na\nsf\na",
-      "color": "cyan",
-      "image": "https://walt0926.github.io/studio-launcher/updates/news/d635247d9bb428b3e5cfd700.png"
+      "title": "Test 1",
+      "text": "**Buen diaa** a todos",
+      "color": "white",
+      "image": ""
     }
   ]
 }
