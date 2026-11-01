@@ -11,6 +11,13 @@
       "sha256": "2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645",
       "size": 9884,
       "category": "mods"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-servidor-amigos-v0.4.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
+      "size": 26277804,
+      "category": "mods"
     }
   ]
 }
