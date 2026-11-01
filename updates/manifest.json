@@ -13,13 +13,6 @@
       "category": "mods"
     },
     {
-      "path": "mods/dedsafio-phora-0.3.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/94a197c1d5d34a0b3f09c176a5c4bdfd5a80b119f7447e6606bb5ce6bf0ed042-dedsafio-phora-0.3.0.jar",
-      "sha256": "94a197c1d5d34a0b3f09c176a5c4bdfd5a80b119f7447e6606bb5ce6bf0ed042",
-      "size": 107003,
-      "category": "mods"
-    },
-    {
       "path": "mods/DEDsafio-Spectator-1.2.3.jar",
       "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645-DEDsafio-Spectator-1.2.3.jar",
       "sha256": "2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645",
@@ -206,6 +199,13 @@
       "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.1.0/3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809-watermedia_binaries-3.0.0.6.jar",
       "sha256": "3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809",
       "size": 143725808,
+      "category": "mods"
+    },
+    {
+      "path": "mods/dedsafio-phora-0.3.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/d0c128c80fee87eeec86637d79179d1dcb667c8f01912125eee08e099184e63d-dedsafio-phora-0.3.1.jar",
+      "sha256": "d0c128c80fee87eeec86637d79179d1dcb667c8f01912125eee08e099184e63d",
+      "size": 108308,
       "category": "mods"
     }
   ]
