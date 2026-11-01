@@ -1,209 +1,538 @@
 {
   "schemaVersion": 1,
   "id": "mcdevelop",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
   "files": [
     {
+      "path": "config/cardinal-components-api.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba-cardinal-components-api.properties",
+      "sha256": "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba",
+      "size": 452,
+      "category": "config"
+    },
+    {
+      "path": "config/compat-snapshots.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/a888104d5387b48b720da2872554e02e0215ea2e39d6870fec3cea2afacfbdcc-compat-snapshots.json",
+      "sha256": "a888104d5387b48b720da2872554e02e0215ea2e39d6870fec3cea2afacfbdcc",
+      "size": 5919,
+      "category": "config"
+    },
+    {
+      "path": "config/dedsafio4_scale.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/cdc3929487004b7869ec3dd2a1b8f8c7cf82268e7e9087be12fede7889fe1f76-dedsafio4_scale.properties",
+      "sha256": "cdc3929487004b7869ec3dd2a1b8f8c7cf82268e7e9087be12fede7889fe1f76",
+      "size": 108,
+      "category": "config"
+    },
+    {
+      "path": "config/dimlib.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/56addd54d089848bf6175e22d9d39bc9c49848449fa249e1df7fe362f1d99306-dimlib.json",
+      "sha256": "56addd54d089848bf6175e22d9d39bc9c49848449fa249e1df7fe362f1d99306",
+      "size": 41,
+      "category": "config"
+    },
+    {
+      "path": "config/customportals.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/a273775da19c58da84f65c4e89ce4fcea19be07cdafe361517f0be6d2e3ad1de-customportals.json",
+      "sha256": "a273775da19c58da84f65c4e89ce4fcea19be07cdafe361517f0be6d2e3ad1de",
+      "size": 624,
+      "category": "config"
+    },
+    {
+      "path": "config/hud-registry.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/ff690a5a4ea125d6da5be93b6482d86d800b35d79901ea9bbee7998b433006b9-hud-registry.json",
+      "sha256": "ff690a5a4ea125d6da5be93b6482d86d800b35d79901ea9bbee7998b433006b9",
+      "size": 469,
+      "category": "config"
+    },
+    {
+      "path": "config/immersive_portals.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/d67360f11c2e7154b99e09669d42b28d21fdba9435d1134b5790a70ea674d018-immersive_portals.json",
+      "sha256": "d67360f11c2e7154b99e09669d42b28d21fdba9435d1134b5790a70ea674d018",
+      "size": 1845,
+      "category": "config"
+    },
+    {
+      "path": "config/iris.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/8a90c196876f27336813b8919706c1131bf3798e2676b4b761e39967614de720-iris.properties",
+      "sha256": "8a90c196876f27336813b8919706c1131bf3798e2676b4b761e39967614de720",
+      "size": 259,
+      "category": "config"
+    },
+    {
+      "path": "config/midnightlib.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387-midnightlib.json",
+      "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
+      "size": 34,
+      "category": "config"
+    },
+    {
+      "path": "config/minecraft-keybinds.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7cbf5c4d153984ebdaea6800a56f4af27502af3bd0fc8d4346692f1f56e3af61-minecraft-keybinds.json",
+      "sha256": "7cbf5c4d153984ebdaea6800a56f4af27502af3bd0fc8d4346692f1f56e3af61",
+      "size": 1721,
+      "category": "config"
+    },
+    {
+      "path": "config/oneconfig.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/f625c79c7c67c4a6630e3b0ff0eee7a3b1607e92b7fa8cd0b7eb8198a350853f-oneconfig.json",
+      "sha256": "f625c79c7c67c4a6630e3b0ff0eee7a3b1607e92b7fa8cd0b7eb8198a350853f",
+      "size": 3478,
+      "category": "config"
+    },
+    {
+      "path": "config/modmenu.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b-modmenu.json",
+      "sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "size": 840,
+      "category": "config"
+    },
+    {
+      "path": "config/reviveflame.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/d09093ccbefe08f6ce0e4990bce364bf88780344263d4963aabd8394bac54b1b-reviveflame.json",
+      "sha256": "d09093ccbefe08f6ce0e4990bce364bf88780344263d4963aabd8394bac54b1b",
+      "size": 265,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-fingerprint.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7f85ae2f364617ba6b3c1134ff64f3c8ff2cd5033e455e26294b638cd3b54f90-sodium-fingerprint.json",
+      "sha256": "7f85ae2f364617ba6b3c1134ff64f3c8ff2cd5033e455e26294b638cd3b54f90",
+      "size": 427,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01-sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258,
+      "category": "config"
+    },
+    {
+      "path": "config/ruleta.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/2442958af7d1824db7cda69e8f674a6ab8403f9429fdf85cbacb2e1d1cb328e6-ruleta.json",
+      "sha256": "2442958af7d1824db7cda69e8f674a6ab8403f9429fdf85cbacb2e1d1cb328e6",
+      "size": 2163,
+      "category": "config"
+    },
+    {
+      "path": "config/themes.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/a38319f6a319524cae4a37891c45135aab070224be06a28f39c1f18506df30b1-themes.json",
+      "sha256": "a38319f6a319524cae4a37891c45135aab070224be06a28f39c1f18506df30b1",
+      "size": 193,
+      "category": "config"
+    },
+    {
+      "path": "config/shine.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/49d86688d63e231761c3a15d8456fb1dd3eee1aa43300ca2305d0610fc1d2ad3-shine.json",
+      "sha256": "49d86688d63e231761c3a15d8456fb1dd3eee1aa43300ca2305d0610fc1d2ad3",
+      "size": 1277,
+      "category": "config"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/659909ab0485f334bb15ad2a392218a53ae09f5ad890965f2f5686d91119ce10-sodium-options.json",
+      "sha256": "659909ab0485f334bb15ad2a392218a53ae09f5ad890965f2f5686d91119ce10",
+      "size": 661,
+      "category": "config"
+    },
+    {
+      "path": "config/waterconfig.toml",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/e5806ca350b26f9c299c7b75728f3f9c0664c286470daa027e4ce547097b90a5-waterconfig.toml",
+      "sha256": "e5806ca350b26f9c299c7b75728f3f9c0664c286470daa027e4ce547097b90a5",
+      "size": 677,
+      "category": "config"
+    },
+    {
+      "path": "config/watermedia.toml",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85-watermedia.toml",
+      "sha256": "7826bfd3bb335d0a87f109f8dedda71c3ddba4838b6e720d90eb3db9ccc5ac85",
+      "size": 8017,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-actionbar.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/30712ad60148bc0e76263e4418e0d4df933efed545aeb39d535c56bf6e59bf3f-vanillahud-actionbar.json",
+      "sha256": "30712ad60148bc0e76263e4418e0d4df933efed545aeb39d535c56bf6e59bf3f",
+      "size": 1808,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-closedcaptions.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/ffd58f07f37527d6ed0d0f12f2ac9fae1282646174e452ab51c10f23339d7e54-vanillahud-closedcaptions.json",
+      "sha256": "ffd58f07f37527d6ed0d0f12f2ac9fae1282646174e452ab51c10f23339d7e54",
+      "size": 2077,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-bossbar.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/29fb8246cc278607683e2f4efea84162a6d23009ae5b11d8fc8aacc8098ffed4-vanillahud-bossbar.json",
+      "sha256": "29fb8246cc278607683e2f4efea84162a6d23009ae5b11d8fc8aacc8098ffed4",
+      "size": 1824,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-hotbar.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/4de3a54de66a61e5687999e740443036463de4bb41e7a401e6c33e2e13c807ca-vanillahud-hotbar.json",
+      "sha256": "4de3a54de66a61e5687999e740443036463de4bb41e7a401e6c33e2e13c807ca",
+      "size": 1944,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-statuseffects.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/e08ddff9a6119b8cae9de659ff429db948c746e1e1985dd71928df6095a878b6-vanillahud-statuseffects.json",
+      "sha256": "e08ddff9a6119b8cae9de659ff429db948c746e1e1985dd71928df6095a878b6",
+      "size": 1793,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-itemtooltip.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7110a2e2d5a5a9808318337086b2aa4ca33ca8c92dffae00f0168162df3a8bd5-vanillahud-itemtooltip.json",
+      "sha256": "7110a2e2d5a5a9808318337086b2aa4ca33ca8c92dffae00f0168162df3a8bd5",
+      "size": 1833,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-scoreboard.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7d8a7e8158f78ccb7a71d795033122dd1df3029fb9835243bf4ba5d88c7ff3fb-vanillahud-scoreboard.json",
+      "sha256": "7d8a7e8158f78ccb7a71d795033122dd1df3029fb9835243bf4ba5d88c7ff3fb",
+      "size": 2370,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-tab.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/8b9cbfb20431432c54d46c7425c26d7692bb5787b46dccb3c1b6a8085eae649a-vanillahud-tab.json",
+      "sha256": "8b9cbfb20431432c54d46c7425c26d7692bb5787b46dccb3c1b6a8085eae649a",
+      "size": 3417,
+      "category": "config"
+    },
+    {
+      "path": "config/huds/vanillahud-title.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/9a86f2746312349ffe4ff7d6ecccdc64ab7120aad4f4f33acdc86007a3346570-vanillahud-title.json",
+      "sha256": "9a86f2746312349ffe4ff7d6ecccdc64ab7120aad4f4f33acdc86007a3346570",
+      "size": 1801,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/f9b828222906863c87950af1c174978de42a314c535a8bfefaafac6acdc0077a-customizablemenus.txt",
+      "sha256": "f9b828222906863c87950af1c174978de42a314c535a8bfefaafac6acdc0077a",
+      "size": 255,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880-custom_gui_screens.txt",
+      "sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0-legacy_checklist.txt",
+      "sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/video_element_controller_metas.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/2262bb61172b903408f0bd45d8c1138b0cb4fb2b0b8df3d9669bea45d1c3fc7c-video_element_controller_metas.json",
+      "sha256": "2262bb61172b903408f0bd45d8c1138b0cb4fb2b0b8df3d9669bea45d1c3fc7c",
+      "size": 258,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452-cherry_blossom.json",
+      "sha256": "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452",
+      "size": 9349,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50-cozy_campfire.json",
+      "sha256": "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50",
+      "size": 9347,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26-dark_high_contrast.json",
+      "sha256": "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26",
+      "size": 9359,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498-dark.json",
+      "sha256": "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498",
+      "size": 9329,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a-light_high_contrast.json",
+      "sha256": "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a",
+      "size": 9361,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153-light.json",
+      "sha256": "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153",
+      "size": 9331,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd-spooky_season.json",
+      "sha256": "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
+      "size": 9347,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0-purple_void.json",
+      "sha256": "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
+      "size": 9343,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/0f8280a69176914ec0cef3a7682906c6a48fc8996b5c3b65f683805ffced7ac5-drippy_loading_overlay_layout.txt",
+      "sha256": "0f8280a69176914ec0cef3a7682906c6a48fc8996b5c3b65f683805ffced7ac5",
+      "size": 18075,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/pause_screen_layout.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/86b88804441ecf509154b0c19bfd64014d6ec29af429fbb2be4daa86380cc819-pause_screen_layout.txt",
+      "sha256": "86b88804441ecf509154b0c19bfd64014d6ec29af429fbb2be4daa86380cc819",
+      "size": 36338,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311-pumpkin_soup.json",
+      "sha256": "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311",
+      "size": 9345,
+      "category": "config"
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout_1.txt",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/bf31cf57f2ec3d074b7de908932549f56bbe207ede29536eaed3cffd07e4e507-title_screen_layout_1.txt",
+      "sha256": "bf31cf57f2ec3d074b7de908932549f56bbe207ede29536eaed3cffd07e4e507",
+      "size": 47467,
+      "category": "config"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/2d53e0c329fcaaac702b0b24f5121c1884b20d7c6fe853e51e20dc588a5dcdaa-indigo-renderer.properties",
+      "sha256": "2d53e0c329fcaaac702b0b24f5121c1884b20d7c6fe853e51e20dc588a5dcdaa",
+      "size": 290,
+      "category": "config"
+    },
+    {
       "path": "mods/cloth-config-15.0.140-fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f-cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f-cloth-config-15.0.140-fabric.jar",
       "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
       "size": 1157166,
       "category": "mods"
     },
     {
       "path": "mods/dedsafio-phora-0.2.1-BRAZOS-CORREGIDOS.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/8d3bc70ec772e9bde4c0f8e2f082f0e694562f66efe0bd90cce33bb233d281a9-dedsafio-phora-0.2.1-BRAZOS-CORREGIDOS.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/8d3bc70ec772e9bde4c0f8e2f082f0e694562f66efe0bd90cce33bb233d281a9-dedsafio-phora-0.2.1-BRAZOS-CORREGIDOS.jar",
       "sha256": "8d3bc70ec772e9bde4c0f8e2f082f0e694562f66efe0bd90cce33bb233d281a9",
       "size": 84593,
       "category": "mods"
     },
     {
       "path": "mods/DEDsafio-Spectator-1.2.3.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645-DEDsafio-Spectator-1.2.3.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645-DEDsafio-Spectator-1.2.3.jar",
       "sha256": "2e0e6bdc642ff7b61cb326af1b2726eae164eabe938cecfa6660e07b04291645",
       "size": 9884,
       "category": "mods"
     },
     {
       "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354-drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354-drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
       "sha256": "a518177522fe894076fa7d598f7bcaf4571e27577e248fd5acf5ceeab7095354",
       "size": 276120,
       "category": "mods"
     },
     {
       "path": "mods/dungeons-and-taverns-v4.4.4 [Fabric].jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da-dungeons-and-taverns-v4.4.4.Fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da-dungeons-and-taverns-v4.4.4.Fabric.jar",
       "sha256": "6ba41e48f6bfec81567e1805b43c4a8f51b4ab5f360a3c211805ebfb070642da",
       "size": 24859360,
       "category": "mods"
     },
     {
       "path": "mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865-DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865-DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
       "size": 11864952,
       "category": "mods"
     },
     {
       "path": "mods/fabric-api-0.116.17+1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800-fabric-api-0.116.17%2B1.21.1.jar",
       "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "size": 2452735,
       "category": "mods"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9-fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
-      "sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
-      "size": 8142878,
-      "category": "mods"
-    },
-    {
       "path": "mods/compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b-compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b-compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
       "sha256": "8018e134fd35617bc9cb0e05dbda8cf54a8bab132b691621af5d08039cc4ef0b",
       "size": 65458536,
       "category": "mods"
     },
     {
+      "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9-fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
+      "size": 8142878,
+      "category": "mods"
+    },
+    {
       "path": "mods/geckolib-fabric-1.21.1-4.9.3.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0-geckolib-fabric-1.21.1-4.9.3.jar",
       "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
       "size": 664463,
       "category": "mods"
     },
     {
-      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
-      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
-      "size": 26277804,
-      "category": "mods"
-    },
-    {
       "path": "mods/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979-immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979-immersive-portals-6.0.6-mc1.21.1-fabric.jar",
       "sha256": "07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979",
       "size": 3121749,
       "category": "mods"
     },
     {
-      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841-konkrete_fabric_1.9.9_MC_1.21.jar",
-      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
-      "size": 786695,
-      "category": "mods"
-    },
-    {
       "path": "mods/iris-fabric-1.8.0-mc1.21.1.jar.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa-iris-fabric-1.8.0-mc1.21.1.jar.jar",
       "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
       "size": 2675365,
       "category": "mods"
     },
     {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841-konkrete_fabric_1.9.9_MC_1.21.jar",
+      "sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "size": 786695,
+      "category": "mods"
+    },
+    {
       "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
       "size": 2087232,
       "category": "mods"
     },
     {
       "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83-melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83-melody_fabric_1.0.10_MC_1.21.jar",
       "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
       "size": 188035,
       "category": "mods"
     },
     {
-      "path": "mods/mountainblocks-1.0.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
-      "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
-      "size": 37122,
-      "category": "mods"
-    },
-    {
       "path": "mods/modmenu-11.0.5.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5-modmenu-11.0.5.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5-modmenu-11.0.5.jar",
       "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5",
       "size": 975846,
       "category": "mods"
     },
     {
+      "path": "mods/mountainblocks-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e-mountainblocks-1.0.0.jar",
+      "sha256": "90cff1c92cf11aec2790ecbdbe449e73fd1e3ef36a98b7e3faab17c42d97ba5e",
+      "size": 37122,
+      "category": "mods"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136-fancymenu_fabric_3.9.14_MC_1.21.1.jar",
+      "sha256": "02a9d39515e79fd2fc628f0268770b95413eb5187667520ba2911a6111d02136",
+      "size": 26277804,
+      "category": "mods"
+    },
+    {
       "path": "mods/phora-coins-1.0.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5-phora-coins-1.0.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5-phora-coins-1.0.0.jar",
       "sha256": "4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5",
       "size": 1485153,
       "category": "mods"
     },
     {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443-placeholder-api-2.4.2%2B1.21.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443-placeholder-api-2.4.2%2B1.21.jar",
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
       "size": 232325,
       "category": "mods"
     },
     {
       "path": "mods/revivalcinematic-1.2.0-dev12.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/02e75c940e87c58c209da464d8842660154ab04bfa24c0738b3ed17055e3aa37-revivalcinematic-1.2.0-dev12.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/02e75c940e87c58c209da464d8842660154ab04bfa24c0738b3ed17055e3aa37-revivalcinematic-1.2.0-dev12.jar",
       "sha256": "02e75c940e87c58c209da464d8842660154ab04bfa24c0738b3ed17055e3aa37",
       "size": 57965,
       "category": "mods"
     },
     {
       "path": "mods/sodium-fabric-0.6.0+mc1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e-sodium-fabric-0.6.0%2Bmc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e",
       "size": 1281394,
       "category": "mods"
     },
     {
-      "path": "mods/spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec-spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
-      "sha256": "08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec",
-      "size": 840858,
-      "category": "mods"
-    },
-    {
-      "path": "mods/vanillahud-3.5.10+1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3-vanillahud-3.5.10%2B1.21.1.jar",
-      "sha256": "d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3",
-      "size": 247698,
-      "category": "mods"
-    },
-    {
       "path": "mods/OneConfig-1.21.1-fabric-1.5.2.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7-OneConfig-1.21.1-fabric-1.5.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7-OneConfig-1.21.1-fabric-1.5.2.jar",
       "sha256": "d658838be4cbfe58f035ca746a898547d50b93996475e864ad71ea49159b06c7",
       "size": 12283345,
       "category": "mods"
     },
     {
+      "path": "mods/vanillahud-3.5.10+1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3-vanillahud-3.5.10%2B1.21.1.jar",
+      "sha256": "d889b0dc5608893babf46778a2db84d8b2938d640f7a90500360cd6d5d0e9ae3",
+      "size": 247698,
+      "category": "mods"
+    },
+    {
+      "path": "mods/spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec-spiffyhud_fabric_3.1.2_MC_1.21.1.jar",
+      "sha256": "08bc2257fbc4f2aa0d4001ceece980e94a20f383a45f783ee25d8b1a42f0dfec",
+      "size": 840858,
+      "category": "mods"
+    },
+    {
       "path": "mods/voicechat-fabric-1.21.1-2.6.22.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36-voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36-voicechat-fabric-1.21.1-2.6.22.jar",
       "sha256": "972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36",
       "size": 5369475,
       "category": "mods"
     },
     {
       "path": "mods/watermedia-3.0.0.23.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a-watermedia-3.0.0.23.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a-watermedia-3.0.0.23.jar",
       "sha256": "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a",
       "size": 3625445,
       "category": "mods"
     },
     {
       "path": "mods/watermedia_binaries-3.0.0.6.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809-watermedia_binaries-3.0.0.6.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809-watermedia_binaries-3.0.0.6.jar",
       "sha256": "3b161eb534c13de1c4f10bb41d491c6422de1a7a19e11b06da56aa328ddd5809",
       "size": 143725808,
       "category": "mods"
     },
     {
       "path": "mods/DEDsafio4-1.1.0-rc2+mc1.21.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.2.0/523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553-DEDsafio4-1.1.0-rc2%2Bmc1.21.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.3.0/523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553-DEDsafio4-1.1.0-rc2%2Bmc1.21.1.jar",
       "sha256": "523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553",
       "size": 279503717,
       "category": "mods"
