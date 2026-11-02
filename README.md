@@ -1,1 +1,1 @@
-# studio-launcher
+# Studio Launcher
