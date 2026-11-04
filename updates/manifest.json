@@ -167,13 +167,6 @@
       "category": "mods"
     },
     {
-      "path": "mods/phora-coins-1.0.0.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5-phora-coins-1.0.0.jar",
-      "sha256": "4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5",
-      "size": 1485153,
-      "category": "mods"
-    },
-    {
       "path": "mods/placeholder-api-2.4.2+1.21.jar",
       "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443-placeholder-api-2.4.2%2B1.21.jar",
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
@@ -256,6 +249,13 @@
       "sha256": "523ab389da2d014f63070c4b6a4ae7e62adf400392f1c65e4e0b2f875b84e553",
       "size": 279503717,
       "category": "mods"
+    },
+    {
+      "path": "mods/phora-coins-1.1.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/499c291ca42a0266f759f4b364c82d1ff52b3947a9c84e0f4712ef44628c6c85-phora-coins-1.1.0.jar",
+      "sha256": "499c291ca42a0266f759f4b364c82d1ff52b3947a9c84e0f4712ef44628c6c85",
+      "size": 1533093,
+      "category": "mods"
     }
   ],
   "removedFiles": [
@@ -298,6 +298,10 @@
     {
       "path": "mods/sodium-fabric-0.6.0+mc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e"
+    },
+    {
+      "path": "mods/phora-coins-1.0.0.jar",
+      "sha256": "4e2517bdf8485aa27cc06a58530e0117b0916ae0edc3fda8a7255564c62a2dc5"
     }
   ]
 }
