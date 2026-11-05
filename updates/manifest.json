@@ -244,17 +244,17 @@
       "category": "mods"
     },
     {
-      "path": "mods/mcdevelop-shop-1.0.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/2ca96d61668933bc58b1005f91b63ff3e46c20c3a61dd5c43fa78d2a3283b28e-mcdevelop-shop-1.0.1.jar",
-      "sha256": "2ca96d61668933bc58b1005f91b63ff3e46c20c3a61dd5c43fa78d2a3283b28e",
-      "size": 174615,
+      "path": "mods/mcdevelop-shop-1.1.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/025fce6f4a64a22f9ce2a637e6ed98e41d46ed8242cd7ea14fe37cb72946e381-mcdevelop-shop-1.1.0.jar",
+      "sha256": "025fce6f4a64a22f9ce2a637e6ed98e41d46ed8242cd7ea14fe37cb72946e381",
+      "size": 184715,
       "category": "mods"
     },
     {
-      "path": "mods/phora-coins-1.1.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/b936e527f47d943d1241bd96cd55d006ba36c624ba05b5292777a917fb93630d-phora-coins-1.1.1.jar",
-      "sha256": "b936e527f47d943d1241bd96cd55d006ba36c624ba05b5292777a917fb93630d",
-      "size": 1533094,
+      "path": "mods/phora-coins-1.1.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4-phora-coins-1.1.2.jar",
+      "sha256": "ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4",
+      "size": 1533107,
       "category": "mods"
     }
   ],
@@ -310,6 +310,14 @@
     {
       "path": "mods/phora-coins-1.1.0.jar",
       "sha256": "499c291ca42a0266f759f4b364c82d1ff52b3947a9c84e0f4712ef44628c6c85"
+    },
+    {
+      "path": "mods/mcdevelop-shop-1.0.1.jar",
+      "sha256": "2ca96d61668933bc58b1005f91b63ff3e46c20c3a61dd5c43fa78d2a3283b28e"
+    },
+    {
+      "path": "mods/phora-coins-1.1.1.jar",
+      "sha256": "b936e527f47d943d1241bd96cd55d006ba36c624ba05b5292777a917fb93630d"
     }
   ]
 }
