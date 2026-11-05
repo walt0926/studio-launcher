@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mcdevelop",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "minecraftVersion": "1.21.1",
   "loader": "fabric",
   "files": [
@@ -101,13 +101,6 @@
       "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/f95016123ef7d7d470f0d74e72ea2078998d3104227686cfcba3c812c3392932-MCDevelop-Spawn-Event-1.4.1.jar",
       "sha256": "f95016123ef7d7d470f0d74e72ea2078998d3104227686cfcba3c812c3392932",
       "size": 90738,
-      "category": "mods"
-    },
-    {
-      "path": "mods/mcdevelop-teams-0.6.2.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/3a6bcc1f8ceffa75db12c4037063b7ba1318300b5e4f21f3126430819f41b2ca-mcdevelop-teams-0.6.2.jar",
-      "sha256": "3a6bcc1f8ceffa75db12c4037063b7ba1318300b5e4f21f3126430819f41b2ca",
-      "size": 82451,
       "category": "mods"
     },
     {
@@ -249,13 +242,6 @@
       "sha256": "025fce6f4a64a22f9ce2a637e6ed98e41d46ed8242cd7ea14fe37cb72946e381",
       "size": 184715,
       "category": "mods"
-    },
-    {
-      "path": "mods/phora-coins-1.1.2.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4-phora-coins-1.1.2.jar",
-      "sha256": "ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4",
-      "size": 1533107,
-      "category": "mods"
     }
   ],
   "removedFiles": [
@@ -318,6 +304,14 @@
     {
       "path": "mods/phora-coins-1.1.1.jar",
       "sha256": "b936e527f47d943d1241bd96cd55d006ba36c624ba05b5292777a917fb93630d"
+    },
+    {
+      "path": "mods/mcdevelop-teams-0.6.2.jar",
+      "sha256": "3a6bcc1f8ceffa75db12c4037063b7ba1318300b5e4f21f3126430819f41b2ca"
+    },
+    {
+      "path": "mods/phora-coins-1.1.2.jar",
+      "sha256": "ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4"
     }
   ]
 }
