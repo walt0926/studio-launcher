@@ -97,13 +97,6 @@
       "category": "mods"
     },
     {
-      "path": "mods/MCDevelop-Spawn-Event-1.4.1.jar",
-      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/f95016123ef7d7d470f0d74e72ea2078998d3104227686cfcba3c812c3392932-MCDevelop-Spawn-Event-1.4.1.jar",
-      "sha256": "f95016123ef7d7d470f0d74e72ea2078998d3104227686cfcba3c812c3392932",
-      "size": 90738,
-      "category": "mods"
-    },
-    {
       "path": "mods/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.7.0/73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95-mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
@@ -242,6 +235,27 @@
       "sha256": "025fce6f4a64a22f9ce2a637e6ed98e41d46ed8242cd7ea14fe37cb72946e381",
       "size": 184715,
       "category": "mods"
+    },
+    {
+      "path": "mods/mcdevelop-teams-0.6.2.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.8.0/5c07b13dbbd9c952ce45e862b5c078419ae0ec534cbbd361606ee6c4ec68649e-mcdevelop-teams-0.6.2.jar",
+      "sha256": "5c07b13dbbd9c952ce45e862b5c078419ae0ec534cbbd361606ee6c4ec68649e",
+      "size": 90926,
+      "category": "mods"
+    },
+    {
+      "path": "mods/MCDevelop-Spawn-Event-1.5.1.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.8.0/a1d2694f449453b989bd06c6e95fe87326827c013aa65375e7fcd55399e2ea29-MCDevelop-Spawn-Event-1.5.1.jar",
+      "sha256": "a1d2694f449453b989bd06c6e95fe87326827c013aa65375e7fcd55399e2ea29",
+      "size": 90718,
+      "category": "mods"
+    },
+    {
+      "path": "mods/phora-coins-1.2.0.jar",
+      "url": "https://github.com/walt0926/studio-launcher/releases/download/modpack-mcdevelop-v0.8.0/b66c65a33d5fda3d60f0764fe3cfdf7135aedacb0e05f295f0089f854f8289c2-phora-coins-1.2.0.jar",
+      "sha256": "b66c65a33d5fda3d60f0764fe3cfdf7135aedacb0e05f295f0089f854f8289c2",
+      "size": 1597225,
+      "category": "mods"
     }
   ],
   "removedFiles": [
@@ -306,12 +320,12 @@
       "sha256": "b936e527f47d943d1241bd96cd55d006ba36c624ba05b5292777a917fb93630d"
     },
     {
-      "path": "mods/mcdevelop-teams-0.6.2.jar",
-      "sha256": "3a6bcc1f8ceffa75db12c4037063b7ba1318300b5e4f21f3126430819f41b2ca"
-    },
-    {
       "path": "mods/phora-coins-1.1.2.jar",
       "sha256": "ede9555e4b13d6eb50e713aee59975681742ed1c21eadb42d181a4a1aad5cfc4"
+    },
+    {
+      "path": "mods/MCDevelop-Spawn-Event-1.4.1.jar",
+      "sha256": "f95016123ef7d7d470f0d74e72ea2078998d3104227686cfcba3c812c3392932"
     }
   ]
 }
